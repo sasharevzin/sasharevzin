@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasharevzin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![](https://yusufozturk.vercel.app/api?username=sasharevzin&hide_title=true&include_all_commits=true&count_private=true&show_icons=true) ![](https://yusufozturk.vercel.app/api/top-langs/?username=sasharevzin&layout=compact&langs_count=10&hide=apacheconf,coffeescript)
 
 <!--START_SECTION:waka-->
 ```text
