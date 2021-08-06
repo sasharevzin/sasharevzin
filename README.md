@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Ruby       47 mins         ██████████████████▒░░░░░░   73.96 % 
+Docker     12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 <!--END_SECTION:waka-->
