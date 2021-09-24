@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Ruby         11 hrs 3 mins   ████████████████████▒░░░░   80.68 % 
-JavaScript   41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-ERB          34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-YAML         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-TypeScript   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Ruby         13 hrs 14 mins  █████████████████████░░░░   84.11 % 
+JavaScript   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+ERB          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+YAML         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 ```
 <!--END_SECTION:waka-->
