@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://yusufozturk.vercel.app/api?username=sasharevzin&hide_title=true&include_all_commits=true&count_private=true&show_icons=true) ![](https://yusufozturk.vercel.app/api/top-langs/?username=sasharevzin&layout=compact&langs_count=10&hide=apacheconf,coffeescript)
 
-<!--START_SECTION:waka1-->
+<!--START_SECTION:waka-->
+<!--
 ```text
 Ruby         3 hrs 47 mins   █████████████▒░░░░░░░░░░░   52.72 % 
 YAML         1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 % 
@@ -25,4 +26,5 @@ ERB          41 mins         ██▒░░░░░░░░░░░░░░
 JavaScript   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 Other        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 ```
-<!--END_SECTION:waka1-->
+-->
+<!--END_SECTION:waka-->
